@@ -23,13 +23,17 @@ yarn add axios
 
 
 ## Developer Note
-23.1.18(목)
+23.1.23(목)(최종)
 
-코딩 어플 REACT 강의 3~6강 관련 코드
 
-내용 정리:
+코딩애플 전반부분 blog 강의
 
-https://devdreamer.tistory.com/46
+web상에서 (no server => 저장 안됨)
+
+좋아요 기능
+컴포넌트 구성을 통한 글 추가 및 삭제
+map 에서 function 을 이용해 각 파라미터의 값들 활용.
+modal창에 전달되는 props 값 활용.
 
 ## 
 
