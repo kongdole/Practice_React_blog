@@ -22,7 +22,7 @@ yarn add axios
 
 
 <p align="center">
-<img src="https://drive.google.com/file/d/1ma1tgC1fdj6a-k4LSHWfXWzNDiSSz8q8/view?usp=sharing">
+<img src="https://user-images.githubusercontent.com/110091612/215239998-8dc51ca3-e9bc-4e41-88ca-250c0e675220.gif">
 </p>
   
 
