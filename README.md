@@ -31,7 +31,6 @@ yarn add axios
 23.1.23(목)(최종)
 
 
-코딩애플 전반부분 blog 강의
 
 web상에서 (no server => 저장 안됨)
 
