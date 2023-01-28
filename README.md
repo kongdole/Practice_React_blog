@@ -30,10 +30,10 @@ yarn add axios
 
 web상에서 (no server => 저장 안됨)
 
-좋아요 기능
-컴포넌트 구성을 통한 글 추가 및 삭제
-map 에서 function 을 이용해 각 파라미터의 값들 활용.
-modal창에 전달되는 props 값 활용.
+- 좋아요 기능
+- 컴포넌트 구성을 통한 글 추가 및 삭제
+- map 에서 function 을 이용해 각 파라미터의 값들 활용.
+- modal창에 전달되는 props 값 활용.
 
 ## 
 
